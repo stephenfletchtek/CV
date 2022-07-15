@@ -38,7 +38,7 @@ _Senior Technical Development roles_
 ## Skills
 
 #### Iterative design / Test Driven Development
-I have extensive experience with x-ray hardware iterative design and test driven developent.I used this experience to dramatically improve the reliability and performance of an x-ray source with a cycle of tests and design interations.
+I have extensive experience with x-ray hardware iterative design and test driven developent. I used this experience to dramatically improve the reliability and performance of an x-ray source with a cycle of tests and design interations.
 
 * Existing x-ray source performance did not meet customer expectations for performance and durabiliity
 * Defined expectations and designed tests to measure performance against expectations
