@@ -36,22 +36,6 @@ _Senior Technical Development roles_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
 #### Iterative design / Test Driven Development
 I have extensive experience with x-ray hardware iterative design and test driven developent.I used this experience to dramatically improve the reliability and performance of an x-ray source with a cycle of tests and design interations.
 
