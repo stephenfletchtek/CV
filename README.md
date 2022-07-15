@@ -33,6 +33,7 @@ _Senior Technical Development roles_
 * Extensive customer support experience - inperson as well as remote 1st, 2nd and 3rd line technical support for products
 * VBA scripts to customise control of x-ray hardware
 * Created Microsoft Excel Macros to meet business needs
+* 2D Engineering drawings using Draftsight
 
 ## Skills
 
@@ -58,9 +59,8 @@ I discovered the x-ray high voltage stability was marginal by design. System var
 I explained this in detail to an analogue electronics expert, enabling them to redesign the voltage feedback loop. The redesigned circuit produced stable output even with extreme system variations.
 
 ## Education
-University of Bristol BSc Chemical Physics (1997)
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June 2022 to October 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -69,16 +69,12 @@ University of Bristol BSc Chemical Physics (1997)
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### University of Bristol (1994 to 1997)
+* BSc Chemical Physics
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+* Classical Piano (grade 8)
+* Classical Violin (grade 8)
+* All aspects of practical DIY, kitchen fitting, bathroom fitting
+* Car mechanics, engine & gearbox repairs
+* Domestic applicance repairs
