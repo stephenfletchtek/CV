@@ -1,13 +1,15 @@
 ## Stephen Fletcher
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a back end software developer looking for my next challenge to further my programming capabiity and gain experience in testing, Test Driven Development and system architecture.
+
+I have a degree in Chemical Physics from Bristol University and have spent 20 years working in x-ray hardware covering design, development, test, manufacturing, and customer support. Since leaving my job I have learned Python and Django with some HTML & CSS and have now turned my attention to the Makers Academy software bootcamp.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description         | Tech/tools                 |
+| ---------------------------- | ------------------- | -------------------------- |
+| **Final project**            | A webapp to do x.   | React, Jest, etc.          |
+| Django delights              | A restaurant webapp | Python, Django, HTML, CSS  |
 
 ## Work Experience
 
