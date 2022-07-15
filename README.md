@@ -1,6 +1,6 @@
 ## Zac Moss
 
-I love code! I actually have a blog to that effect - zaclovescode.medium.com. I'm currently studying with Makers Academy in their July '22 cohort.
+I love code! I actually have a blog to that effect - https://zaclovescode.medium.com. I'm currently studying with Makers Academy in their July '22 cohort.
 
 I learned to code after meeting software engineers working remote while on a rock climbing trip in Thailand and became curious about what kind of career allowed them to travel and work in paradise! On return to the UK I went straight into the first UK lockdown and had way too much time on my hands. I opted to learn three skills I'd always wanted to be good at - learning to code, juggling, and solving a rubik's cube. My goals were to learn a programming language, juggle on a slackline, and solve a Rubik's cube in under a minute.
 
@@ -10,7 +10,7 @@ Before starting with Makers I had been working in the film and TV industry since
 
 Other things I love include rock climbing and photography. I have climbed around the world, as well as the UK and Thailand I have spent climbing in Turkey (Baklava ❤️) , Spain, France, and Greece (my favourite, and also the best food!) I have climbed sport routes up to 7b and debatably bouldered between 6C and 7A+ depending on who you ask.
 
-I have also taken photos in most of those countries mentioned above of both amateur and professional climbers, and enjoy hanging on a rope taking photos almost as much as climbing itself! You can see some of my photography at zacmoss.co.uk.
+I have also taken photos in most of those countries mentioned above of both amateur and professional climbers, and enjoy hanging on a rope taking photos almost as much as climbing itself! You can see some of my photography at https://zacmoss.co.uk.
 
 
 ## Projects
