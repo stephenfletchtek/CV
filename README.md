@@ -16,9 +16,9 @@ I have a degree in Chemical Physics from Bristol University and have spent 20 ye
 **Nikon Metrology** (2017 to 2021)  
 _System Testing and Integration Lead_ 
 
-* Technical lead responsible for the development of an ambitious and complex high Voltage x-ray source.
-* Set the technical direction for a multidisciplinary team to ensure the large number of separately developed hardware subcomponents interacted safely and performed well upon integration.
-* Designed and implemented systems testing regime and proportionate risk assessment, redundancy and controls.
+* Technical lead responsible for the development of an ambitious and complex high Voltage x-ray source
+* Set the technical direction for a multidisciplinary team to ensure the large number of separately developed hardware subcomponents interacted safely and performed well upon integration
+* Designed and implemented systems testing regime and proportionate risk assessment, redundancy and controls
 
 **X-Tek Systems Ltd** (1997 to 2017)  
 _Senior Technical Development roles_
@@ -30,7 +30,7 @@ _Senior Technical Development roles_
   - Test design, build, test and iterate
   - Install and configuration on-site
   - Debugging of new and legacy components
-* Extensive customer support experience - inperson as well as remote 1st, 2nd and 3rd line technical support for products.
+* Extensive customer support experience - inperson as well as remote 1st, 2nd and 3rd line technical support for products
 * VBA scripts to customise control of x-ray hardware
 * Created Microsoft Excel Macros to meet business needs
 
