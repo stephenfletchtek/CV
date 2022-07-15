@@ -13,10 +13,12 @@ I have a degree in Chemical Physics from Bristol University and have spent 20 ye
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Nikon Metrology** (2017 to 2021)  
+_System Testing and Integration Lead_ 
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+*Technical lead responsible for the development of an ambitious and complex product.
+*Set the technical direction for a multidisciplinary team to ensure the large number of separately developed hardware subcomponents interacted safely and performed well upon integration.
+* Designed and implemented systems testing regime and proportionate risk assessment, redundancy and controls.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
