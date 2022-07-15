@@ -2,7 +2,7 @@
 
 I am a back end software developer looking for my next challenge to further my programming capabiity and gain experience in testing, Test Driven Development and system architecture.
 
-I have a degree in Chemical Physics from Bristol University and have spent 20 years working in x-ray hardware covering design, development, test, manufacturing, and customer support. Since leaving my job I have learned Python and Django with some HTML & CSS and have now turned my attention to the Makers Academy software bootcamp.
+I have a degree in Chemical Physics from Bristol University and have spent 20 years working in x-ray hardware covering design, development, test, manufacturing, and customer support. Since leaving my job I have learned Python and Django with some HTML & CSS. I've now turned my attention to the Makers Academy software bootcamp.
 
 ## Projects
 
