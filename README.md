@@ -48,23 +48,33 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
-
-#### This Skill
-
 - Experience
 - Achievements
 - Evidence (STAR)
 
-#### Another Skill
+#### Iterative design / Test Driven Development
+I have extensive experience with x-ray hardware iterative design and test driven developent.I used this experience to dramatically improve the reliability and performance of an x-ray source with a cycle of tests and design interations.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+* Existing x-ray source performance did not meet customer expectations for performance and durabiliity
+* Defined expectations and designed tests to measure performance against expectations
+* Conducted tests and iteratively modified design when tests were failed
+* Released a product design that passed tests and met expectations
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### System Interaction Troubleshooting
+I have a strong capability to break down seemingly complex system issues into manageable steps to understand and analyse the underlying problems.
+
+I diagnosed a subtle output stability issue with a high voltage x-ray power supply:
+* X-ray voltage would violently oscillate under some conditions
+* All subcomponents performed as expected and passed tests
+* I devised a series of system tests to determine the origin of the oscillation
+* Further tests varying system parameters to fully understand the cause and nature of the oscillation
+
+I discovered the x-ray high voltage stability was marginal by design. System variations and tolerances (e.g. attached capacitance) could cause unstable high voltage.
+
+I explained this in detail to an analogue electronics expert, enabling them to redesign the voltage feedback loop. The redesigned circuit produced stable output even with extreme system variations.
 
 ## Education
+University of Bristol BSc Chemical Physics (1997)
 
 #### Makers Academy (start_date to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
