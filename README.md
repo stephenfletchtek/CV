@@ -17,8 +17,8 @@ I have also taken photos in most of those countries mentioned above of both amat
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Divvy**            | Final project at Makers, a mobile app that helps you work out how to split restaurant bills between friends | React, Javascript, Node, Expo, Realm, Taggun |
+| **Gilded Rose** | Script that manages inventory for a fictional shop | Javascript, Jest              |
 
 ## Work Experience
 
