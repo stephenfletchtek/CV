@@ -5,7 +5,7 @@
 
 I recently completed [Makers Academy](https://makers.tech/) and have 20 years experience in hardware development and design. 
 
-I decided to switch from hardware design and development into software so I can explore the endless possibilities available. My 20 years working in x-ray hardware covering design, development, test, manufacturing, and customer support leave me with many skills highly relevent to software development. 
+I decided to switch from hardware to software so I can continue to design and develop with more flexibility than hardware allows. My 20 years working in x-ray hardware covering design, development, test, manufacturing, and customer support leave me with many skills highly relevent to software development. 
 
 ## Projects
 
@@ -13,7 +13,7 @@ These projects demonstrate a range of technologies used when developing applicat
 Name | Description | Tech/tools
 ---- | ----------- | ----------
 [Reef Runner](https://github.com/stephenfletchtek/team-sea-urchins)| A 2D sidescroller game that can be played on a mobile phone or desktop computer. Currently **deployed** at https://reefrunner.herokuapp.com/ | Phaser, Javascript, Heroku, Cypress
-[Acebook](https://github.com/stephenfletchtek/the-axylotls-acebook)| A social media web app where you can make posts including text and images. You can like or comment on posts| Express, Nodemon, Handlebars, Mongoose, ESint, Jest, Cypress
+[Acebook](https://github.com/stephenfletchtek/the-axylotls-acebook)| A social media web app where you can make posts including text and images. You can like or comment on posts| Javascript, Express, Nodemon, Handlebars, Mongoose, ESlint, Jest, Cypress
 [Makers BnB](https://github.com/stephenfletchtek/Makersbnb)| A Web Site for viewing and booking Bed and Breakfast accommodation | Ruby, Sinatra, Rack, PreSql, Bootstrap, Rspec
 
 ## Skills
