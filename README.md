@@ -12,7 +12,7 @@ I decided to switch from hardware to software so I can continue to design and de
 These projects demonstrate a range of technologies used when developing applications in small teams at [Makers Academy](https://makers.tech/).
 Name | Description | Tech/tools
 ---- | ----------- | ----------
-[Reef Runner](https://github.com/stephenfletchtek/team-sea-urchins)| A 2D sidescroller game that can be played on a mobile phone or desktop computer. Currently **deployed** at https://reefrunner.herokuapp.com/ | Phaser, Javascript, Heroku, Cypress
+[Reef Runner](https://github.com/stephenfletchtek/team-sea-urchins)| A 2D sidescroller game that can be played on a mobile phone or desktop computer.<br>Currently **deployed** here: https://reefrunner.herokuapp.com/<br>Our team demo video: https://www.youtube.com/watch?v=zRn2Lerc43c<br>&emsp;from approx. 4 min to 15min in the video| Phaser, Javascript, Heroku, Cypress
 [Acebook](https://github.com/stephenfletchtek/the-axylotls-acebook)| A social media web app where you can make posts including text and images. You can like or comment on posts| Javascript, Express, Nodemon, Handlebars, Mongoose, ESlint, Jest, Cypress
 [Makers BnB](https://github.com/stephenfletchtek/Makersbnb)| A Web Site for viewing and booking Bed and Breakfast accommodation | Ruby, Sinatra, Rack, PreSql, Bootstrap, Rspec
 
