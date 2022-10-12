@@ -1,15 +1,20 @@
 ## Stephen Fletcher
+#### Junior Developer
 
-I am a back end software developer looking for my next challenge to further my programming capabiity and gain experience in testing, Test Driven Development and system architecture.
+[Projects](#projects) |
 
-I have a degree in Chemical Physics from Bristol University and have spent 20 years working in x-ray hardware covering design, development, test, manufacturing, and customer support. Since leaving my job I have learned Python and Django with some HTML & CSS. I've now turned my attention to the Makers Academy software bootcamp.
+I recently completed [Makers Academy](https://makers.tech/) and have 20 years experience in hardware development and design. 
+
+I decided to switch from hardware design and development into software so I can explore the endless possibilities available. My 20 years working in x-ray hardware covering design, development, test, manufacturing, and customer support leave me with many skills highly relevent to software development. 
 
 ## Projects
 
-| Name                         | Description         | Tech/tools                 |
-| ---------------------------- | ------------------- | -------------------------- |
-| **Final project**            | A webapp to do x.   | React, Jest, etc.          |
-| Django delights              | A restaurant webapp | Python, Django, HTML, CSS  |
+These projects demonstrate a range of technologies used when developing applications in small teams at [Makers Academy](https://makers.tech/).
+Name | Description | Tech/tools
+---- | ----------- | ----------
+[Reef Runner](https://github.com/stephenfletchtek/team-sea-urchins)| A 2D sidescroller game that can be played on a mobile phone or desktop computer | Phaser, Javascript, Heroku, Cypress
+[Acebook](https://github.com/stephenfletchtek/the-axylotls-acebook)| A social media web app where you can make posts including text and images. You can like or comment on posts| Express, Nodemon, Handlebars, Mongoose, ESint, Jest, Cypress
+[Makers BnB](https://github.com/stephenfletchtek/Makersbnb)| A Web Site for viewing and booking Bed and Breakfast accommodation | Ruby, Sinatra, Rack, PreSql, Bootstrap, Rspec
 
 ## Work Experience
 
