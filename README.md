@@ -22,7 +22,7 @@ Name | Description | Tech/tools
 
 #### Test Driven Development and Testing
 
-At Makers I used Test Driven Development (TDD) with `RSpec` (Ruby) and `Jest` (Javascript) as a tool to develop robust elegant code. I used TDD to test expected behaviour and edge cases.
+At Makers I used Test Driven Development (TDD) with `RSpec` (Ruby) and `Jest` (Javascript). TDD enabled me to develop robust elegant code, checking expected behaviour, and edge cases.
 
 With x-ray hardware development I freqently designed and ran tests to prove performance or drive design change. In one case I dramatically improved the reliability and performance of an x-ray source with a cycle of tests and design interations.
 
