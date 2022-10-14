@@ -52,6 +52,8 @@ I explained this in detail to an analogue electronics expert, enabling them to r
 
 At Makers I practiced paired programming on a daily basis, using Test Driven Development to create a range of web applications. Our projects were regularly committed to github for both individual and group projects. Throughout the bootcamp I became proficient in Ruby, and Javascript whilst improving my debugging skills, and agile process.
 
+Thriving at Makers fast paced 12 week course demonstrates that I can quicly learn unfamiliar languages and technologies. Concepts such as Agile development, TDD, and Object Oriented Programming were core concepts reinforced throughout the course. 
+
 Specific tech and skills I covered at Makers:
 - git branches, pull requests, merge, merge conflicts, rebase 
 - Ruby, Javascript (ES6)
