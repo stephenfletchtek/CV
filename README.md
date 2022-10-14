@@ -1,11 +1,13 @@
 ## Stephen Fletcher
 #### Junior Developer
 
-[Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-I recently completed [Makers Academy](https://makers.tech/) and have 20 years experience in hardware development and design. 
+I am an independent problem solver who learns at pace by getting involved and doing. The trickier the problem, the more motivated I am to get it solved! 
 
-I decided to switch from hardware to software so I can continue to design and develop with more flexibility than hardware allows. My 20 years working in x-ray hardware covering design, development, test, manufacturing, and customer support leave me with many skills highly relevent to software development. 
+I recently completed [Makers Academy](https://makers.tech/) and have more than 20 years experience in hardware development and design. 
+
+Switching from hardware to software means I can develop with more flexibility than hardware allows. My time working in x-ray hardware covered design, development, test, manufacturing, and customer support, leaving me with many skills highly relevent to software development. 
 
 ## Projects
 
@@ -44,7 +46,22 @@ I discovered the x-ray high voltage stability was marginal by design. System var
 
 I explained this in detail to an analogue electronics expert, enabling them to redesign the voltage feedback loop. The redesigned circuit produced stable output even with extreme system variations.
 
-## Work Experience
+## Experience
+
+#### Makers Academy (June 2022 to October 2022)
+
+At Makers I practiced paired programming on a daily basis, using Test Driven Development to create a range of web applications. Our projects were regularly committed to github for both individual and group projects. Throughout the bootcamp I became proficient in Ruby, and Javascript whilst improving my debugging skills, and agile process.
+
+Specific tech and skills I covered at Makers:
+- git branches, pull requests, merge, merge conflicts, rebase 
+- Ruby, Javascript (ES6)
+- Object Oriented Programmming
+- Sinatra, Express
+- TDD and Agile development
+- Rspec, Jest, Cypress
+- Rubocop, ESlint
+- PostgreSql, Mongodb,
+- Phaser
 
 **Nikon Metrology** (2017 to 2021)  
 _System Testing and Integration Lead_ 
@@ -71,25 +88,10 @@ _Senior Technical Development roles_
 
 ## Education
 
-#### Makers Academy (June 2022 to October 2022)
-
-At Makers I practiced paired programming on a daily basis, using Test Driven Development to create a range of web applications. Our projects were regularly committed to github for both individual and group projects. Throughout the bootcamp I became proficient in Ruby, and Javascript whilst improving my debugging skills, and agile process.
-
-Specific tech and skills I covered at Makers:
-- git branches, pull requests, merge, merge conflicts, rebase 
-- Ruby, Javascript (ES6)
-- Object Oriented Programmming
-- Sinatra, Express
-- TDD and Agile development
-- Rspec, Jest, Cypress
-- Rubocop, ESlint
-- PostgreSql, Mongodb,
-- Phaser
-
 #### University of Bristol (1994 to 1997)
 * BSc Chemical Physics
 
-## Hobbies
+## Interests
 🎹 Classical Piano (grade 8)<br>
 🎻 Classical Violin (grade 8)<br>
 🪚 All aspects of practical DIY, kitchen fitting, bathroom fitting<br>
