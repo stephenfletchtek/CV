@@ -57,7 +57,7 @@ _Senior Technical Development roles_
 
 #### Paired programming
 
-At Makers we built applications in small teams using paried programming in the 'driver-navigator' style. I successfully contributed to all my group projects using paired programming. It was important to adjust my pace and approach according to the experience and energy level of my pairing partner.
+At Makers I built applications in small teams using paried programming in the 'driver-navigator' style. I successfully contributed to all my group projects using paired programming. It was important to adjust my pace and approach according to the experience and energy level of my pairing partner.
 
 The applications I produced in teams are far greater than any of us could have made individually - and this is evidenced in my github repositories. 
 
