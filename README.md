@@ -29,7 +29,7 @@ Makers Academty Bootcamp was a 12 week intensive course teaching core programmin
 
 #### Team Treehouse and Codecademy (2021 - 2022)
 
-Team Treehouse and Codecademy are online bootcamps where I learned Python, Django, and CSS whilst creating some solo projects. I also built some applications using OAuth 2.0 and deployed one of my projects on [Python AnyWhere](https://www.pythonanywhere.com/). The projects are in my github repositories.
+Team Treehouse and Codecademy are online bootcamps where I learned Python, Django, and CSS whilst creating some solo projects. I also built some applications using OAuth 2.0 and deployed one of my projects on [python anywhere](https://www.pythonanywhere.com/). The projects are in my github repositories.
 
 #### Nikon Metrology (2017 to 2021)  
 _System Testing and Integration Lead_ 
