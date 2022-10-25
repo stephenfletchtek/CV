@@ -25,7 +25,7 @@ Name | Description | Tech/tools
 
 #### Makers Academy (June 2022 to October 2022)
 
-Makers Academty Bootcamp was a 12 week intensive course teaching core programming skills such as paired programming, test driven development and object oriented programming. The course required me to become proficient in Ruby and Javascript whilst creating web applications in small teams using agile development techniques. 
+Makers Academy Bootcamp was a 12 week intensive course teaching core programming skills such as paired programming, test driven development and object oriented programming. The course required me to become proficient in Ruby and Javascript whilst creating web applications in small teams using agile development techniques. 
 
 #### Team Treehouse and Codecademy (2021 - 2022)
 
