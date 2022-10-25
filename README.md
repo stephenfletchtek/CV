@@ -65,9 +65,9 @@ The applications I produced in teams are far greater than any of us could have m
 
 At Makers I used Test Driven Development (TDD) with `RSpec` (Ruby) and `Jest` (Javascript). TDD enabled me to develop robust elegant code, checking expected behaviour, and edge cases.
 
-With x-ray hardware development I freqently designed and ran tests to prove performance or drive design change. In one case I dramatically improved the reliability and performance of an x-ray source with a cycle of tests and design interations.
+With x-ray hardware development I frequently designed and ran tests to prove performance or drive design change. In one case I dramatically improved the reliability and performance of an x-ray source with a cycle of tests and design iterations.
 
-* Existing x-ray source performance did not meet customer expectations for performance and durabiliity
+* Existing x-ray source performance did not meet customer expectations for performance and durability
 * Defined expectations and designed tests to measure performance against expectations
 * Conducted tests and iteratively modified design when tests were failed
 * Released a product design that passed tests and met expectations
