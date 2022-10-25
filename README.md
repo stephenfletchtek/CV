@@ -41,14 +41,14 @@ _System Testing and Integration Lead_
 #### X-Tek Systems Ltd (1997 to 2017)  
 _Senior Technical Development roles_
 
-* Range of technical leadership roles in bleeding edge x-ray hardware developemnt
+* Range of technical leadership roles in bleeding edge x-ray hardware development
 * Responsible for every step of the development process:
   - Conceptual design
   - Validating business and customer needs
   - Test design, build, test and iterate
   - Install and configuration on-site
   - Debugging of new and legacy components
-* Extensive customer support experience - inperson as well as remote 1st, 2nd and 3rd line technical support for products
+* Extensive customer support experience - in person as well as remote 1st, 2nd and 3rd line technical support for products
 * VBA scripts to customise control of x-ray hardware
 * Created Microsoft Excel Macros to meet business needs
 * 2D Engineering drawings using Draftsight
