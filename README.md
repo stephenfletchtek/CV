@@ -97,4 +97,4 @@ I explained this in detail to an analogue electronics expert, enabling them to r
 🎻 Classical Violin (grade 8)<br>
 🪚 All aspects of practical DIY, kitchen fitting, bathroom fitting<br>
 ⚙️ Car mechanics, engine & gearbox repairs<br>
-📺 Domestic applicance repairs<br>
+📺 Domestic appliance repairs<br>
