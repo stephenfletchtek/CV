@@ -57,7 +57,7 @@ _Senior Technical Development roles_
 
 #### Collaboration
 
-At Makers Bootcamp I had to build applications both in small teams and using paired programming. I took the time to get to know my team and pairing partner and to understand their knowledge, skills and preferred ways of working and communicating. This meant I could make sure we were working to our strengths, meeting each others needs, and organising the work optimally. As a result of this collaboration, my work was much higher quality than any of us could have produced individually. The intensity of the collaboration is evidenced in my GitHub repos.
+At Makers Bootcamp I had to build applications both in small teams and using paired programming. I took the time to get to know my team and pairing partner and to understand their knowledge, skills and preferred ways of working and communicating. This meant I could make sure we were working to our strengths, meeting each other's needs, and organising the work optimally. As a result of this collaboration, my work was much higher quality than any of us could have produced individually. The intensity of the collaboration is evidenced in my GitHub repos.
 
 #### Testing
 
