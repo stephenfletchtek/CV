@@ -55,22 +55,15 @@ _Senior Technical Development roles_
 
 ## Skills
 
-#### Paired programming
+#### Collaboration
 
-At Makers I built applications in small teams using paried programming in the 'driver-navigator' style. I successfully contributed to all my group projects using paired programming. It was important to adjust my pace and approach according to the experience and energy level of my pairing partner.
-
-The applications I produced in teams are far greater than any of us could have made individually - and this is evidenced in my github repositories. 
+At Makers Bootcamp I had to build applications both in small teams and using paired programming. I took the time to get to know my team and pairing partner and to understand their knowledge, skills and preferred ways of working and communicating. This meant I could make sure we were working to our strengths, meeting each others needs, and organising the work optimally. As a result of this collaboration, my work was much higher quality than any of us could have produced individually. The intensity of the collaboration is evidenced in my GitHub repos.
 
 #### Testing
 
-At Makers I used Test Driven Development (TDD) with `RSpec` (Ruby) and `Jest` (Javascript). TDD enabled me to develop robust elegant code, checking expected behaviour, and edge cases.
+At Nikon Metrology, one of our products was consistently failing to meet customer expectations for reliability or performance - and was damaging our corporate reputation. I was tasked to rectify the situation by bringing about design improvements. I designed a systematic programme of tests - first to identify and understand the problems, and second, to develop and iterate necessary design improvements. Using this prototype, test, improve cycle, I worked with colleagues to release an improved product that passed tests, met customer expectations, and began to rebuild our reputation for reliable, quality products.
 
-With x-ray hardware development I frequently designed and ran tests to prove performance or drive design change. In one case I dramatically improved the reliability and performance of an x-ray source with a cycle of tests and design iterations.
-
-* Existing x-ray source performance did not meet customer expectations for performance and durability
-* Defined expectations and designed tests to measure performance against expectations
-* Conducted tests and iteratively modified design when tests were failed
-* Released a product design that passed tests and met expectations
+At Makers, I was asked to write a command-line app that modelled a bank account, with deposits, withdrawals, and bank statements, by taking a Test Driven Development approach. I designed tests based on requirements, then created the minimum code needed to pass each test - resulting in an efficiently developed and robust application that behaved as expected, including edge cases.
 
 #### Troubleshooting
 I have a strong capability to break down seemingly complex system issues into manageable steps to understand and analyse the underlying problems.
