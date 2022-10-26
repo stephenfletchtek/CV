@@ -7,7 +7,7 @@ I am an independent problem solver who learns quickly by getting involved and do
 
 I recently completed [Makers Academy](https://makers.tech/) and have more than 20 years experience in hardware development and design. 
 
-I changed to software so I can work with more flexibility than hardware allows. My time working in x-ray hardware covered design, development, test, manufacturing, and customer support, leaving me with many skills highly relevent to software development. 
+I changed to software so I can work with more flexibility than hardware allows. My time working in x-ray hardware covered design, development, test, manufacturing, and customer support, leaving me with many skills highly relevant to software development. 
 
 ## Projects
 
