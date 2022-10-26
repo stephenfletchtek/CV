@@ -16,7 +16,7 @@ Name | Description | Tech/tools
 ---- | ----------- | ----------
 [Reef Runner](https://github.com/stephenfletchtek/team-sea-urchins)| A 2D side scroller game that can be played on a mobile phone or desktop computer.<br>Currently **deployed** here: https://reefrunner.herokuapp.com/<br>Our team demo video: https://www.youtube.com/watch?v=zRn2Lerc43c<br>&emsp;from approx. 4 min to 15min in the video| Phaser, Javascript, Heroku, Cypress
 [Acebook](https://github.com/stephenfletchtek/the-axylotls-acebook)| A social media web app where you can make posts including text and images. You can like or comment on posts| Javascript, Express, Nodemon, Handlebars, Mongoose, ESlint, Jest, Cypress
-[Makers BnB](https://github.com/stephenfletchtek/Makersbnb)| A Website for viewing and booking Bed and Breakfast accommodation | Ruby, Sinatra, Rack, PreSql, Bootstrap, Rspec
+[Makers BnB](https://github.com/stephenfletchtek/Makersbnb)| A website for viewing and booking Bed and Breakfast accommodation | Ruby, Sinatra, Rack, PreSql, Bootstrap, Rspec
 [Bank Tech Test](https://github.com/stephenfletchtek/bank-tech-test) | A bank account app developed using TDD | Ruby, RSpec
 [JS Bank Tech Test](https://github.com/stephenfletchtek/js-bank-tech-test) | Tech test as above in Javascript | Javascript, Jest
 
