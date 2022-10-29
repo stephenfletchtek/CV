@@ -1,22 +1,24 @@
 ## Zac Moss
 
-I love code! I actually have a blog to that effect - https://zaclovescode.medium.com. I'm currently studying with Makers Academy in their July '22 cohort.
+I’m Zac Moss, I’m a full-stack software engineer and alumni of the Makers Academy July ‘22 cohort. I write in Javascript (including React and React Native) and Ruby.
 
-I learned to code after meeting software engineers working remote while on a rock climbing trip in Thailand and became curious about what kind of career allowed them to travel and work in paradise! On return to the UK I went straight into the first UK lockdown and had way too much time on my hands. I opted to learn three skills I'd always wanted to be good at - learning to code, juggling, and solving a rubik's cube. My goals were to learn a programming language, juggle on a slackline, and solve a Rubik's cube in under a minute.
+I learned to code after meeting software engineers working remote while on a rock climbing trip in Thailand. I loved a career that allowed you to travel and work! When I returned I entered lockdown and immediately started a course in Python on Codecademy. I was hooked.
 
-I now write in Ruby, although when I started learning coding through Codeacademy I began with Python and Javascript. I also really enjoy solving Codewars challenges and am currently at 4kta. As for the other skills, I can walk and juggle on a slackline at the same time, and solve a Rubik's cube in 1 minute and 83 hundreths of a second!
+Hungry for coding challenges after tearing through kata on Code Wars (I now have a 4 kta rating!), I gave myself one of my first projects: writing a script that would work with the website of one of the biggest rock climbing databases in the world. It didn't have a public API so my Python script scraped the site using Selenium to render dynamically loading pages and BeautifulSoup, a library for parsing a page's DOM, and converted the data into a leaderboard for who had completed the most climbs in an area. This proved popular with my climbing friends who are very competitive!
 
-Before starting with Makers I had been working in the film and TV industry since 2014, starting as a runner and assistant director and then moving into special effects since 2019. My first ever job in film was on an Egyptian hamburger commercial and our day lasted 19 hours! After many more long days and late nights I'm now looking for a fresh start in a new industry.
+I continued to test myself during my time in the Makers Academy bootcamp. In my last group project at Makers we had two weeks to develop an app from scratch. We decided on a bill-splitting app for working out group meal costs in restaurants. For an added challenge, I suggested we make it a mobile app and write it in React Native - neither of which we had any experience with! This paid off when on completion we had an iOS app that we could deploy to mobile devices through Expo. I learned that there are few things as saying as seeing your app working in the palm of your hand.
 
-Other things I love include rock climbing and photography. I have climbed around the world, as well as the UK and Thailand I have spent climbing in Turkey (Baklava ❤️) , Spain, France, and Greece (my favourite, and also the best food!) I have climbed sport routes up to 7b and debatably bouldered between 6C and 7A+ depending on who you ask.
 
-I have also taken photos in most of those countries mentioned above of both amateur and professional climbers, and enjoy hanging on a rope taking photos almost as much as climbing itself! You can see some of my photography at https://zacmoss.co.uk.
+Other things I enjoy outside coding: I'm a keen climber (as mentioned) and photographer. I recently came back from an eight month climbing and photography trip through Europe and Turkey (lots of baklava), climbing some incredible and challenging routes (seeking challenge is a theme here) and taking photos of climbers ranging from amateur friends to Olympians. If you're interested you can check out photos from my adventures at https://www.zacmoss.co.uk/
+
+I also like to solve Rubik's cubes. Over lockdown I had a goal of getting a solve in under one minute, my fastest time is 1 minute and 83 hundreths of a second. Always looking to improve!
 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **Chitter API** | Backend for a full-stack web application, a social media platform that allows users to create accounts, post messages, like comments, and tag other users. Users are emailed when tagged. | Javascript, Node.js, Express, Twilio SendGrid, MongoDB, Jest |
 | **Divvy**            | Final project at Makers, a mobile app that helps you work out how to split restaurant bills between friends | React, Javascript, Node, Expo, Realm, Taggun |
 | **Gilded Rose** | Script that manages inventory for a fictional shop | Javascript, Jest              |
 
