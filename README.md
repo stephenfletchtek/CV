@@ -12,7 +12,7 @@ I learned to code after meeting software engineers working remote while on a roc
 
 ***Calm under pressure:*** I am used to keeping it together in high-stress situations. I have worked in special effects teams on film and tv productions working with fire and water effects where mistakes could have consequences of serious injury. As a climbing photographer I would be responsible for my own safety while abseiling, hanging in mid-air on a rope while taking photos of professional climbers and athletes - sometimes only getting one attempt to get the shot!
 
-***I’m always working on something:*** If I’m not developing my own projects (just ask me what I’m working on at the moment), you can find me (solving kata on Code Wars where I have a 3 kyu rating)[https://www.codewars.com/users/ZacMoss].
+***I’m always working on something:*** If I’m not developing my own projects (just ask me what I’m working on at the moment), you can find me [solving kata on Code Wars where I have a 3 kyu rating](https://www.codewars.com/users/ZacMoss).
 
 ## Projects
 
