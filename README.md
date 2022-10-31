@@ -41,10 +41,10 @@ I worked as part of a special effects company based in SW London. As well as lea
 
 Some effects I was involved with included:
 
--setting various things on fire like a kitchen, a boxing ring, and a moped,
--dropping two tons of water on a caravan,
--covering a street in Hackney in fake snow,
--running a bath (genuinely an effect).
+- setting various things on fire like a kitchen, a boxing ring, and a moped,
+- dropping two tons of water on a caravan,
+- covering a street in Hackney in fake snow,
+- running a bath (genuinely an effect).
 
 **Various Film and Television Productions** (Oct ‘14 - December ‘19)
 Assistant Director and Runner
@@ -54,11 +54,11 @@ Worked on everything from blockbuster film productions to commercials and music 
 ## Education
 
 #### Makers Academy (July ‘22 - October ‘22)
-Joined the Makers Academy bootcamp with hopes and dreams of emerging as a professional software engineer.
-Learned to work in a team environment using Agile methodologies to build exciting projects
-Met a bunch of wonderful people and was continually excited by code
-Ruby & Javascript
-Taught TDD processes with testing frameworks including RSpec, Jest, and Cypress
+- Joined the Makers Academy bootcamp with hopes and dreams of emerging as a professional software engineer.
+- Learned to work in a team environment using Agile methodologies to build exciting projects
+- Met a bunch of wonderful people and was continually excited by code
+- Ruby & Javascript
+- Taught TDD processes with testing frameworks including RSpec, Jest, and Cypress
 
 #### University for the Creative Arts (September ‘08 - June ‘11
 Digital Film and Screen Arts - 2-2
