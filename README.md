@@ -1,3 +1,5 @@
+[Find my PDF CV here](https://github.com/ZacMossHK/CV/blob/24c933a71fea02ea0b11a4f1255cd8926eb137c9/README.md)
+
 ## About Me
 
 I’m Zac Moss, I’m a full-stack software engineer and alumni of the Makers Academy July ‘22 cohort. I write in Javascript (including React and React Native) and Ruby.
