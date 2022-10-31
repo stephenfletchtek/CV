@@ -30,12 +30,6 @@ I learned to code after meeting software engineers working remote while on a roc
 | [**Bank Tech Test**](https://github.com/ZacMossHK/BankTechTest)| Mock tech test, a transaction handler for a bank account. It validates and records withdrawals and deposits and can return a bank statement based on the account’s transaction history. | Javascript, Jest |
 | [**Busiest Climber**](https://github.com/ZacMossHK/Busiest-Climbers-UKC)| Web scraper and leaderboard creator. Scrapes the second largest database of rock climbs in the world and builds a top ten leaderboard for an area based on who had completed the most climbs. My earliest project! | Python, Selenium, BeautifulSoup |
 
-## Other things I enjoy outside coding:
-
-I really enjoy rock climbing and photography. I took an eight month trip through Europe and Turkey (lots of baklava), climbing some incredible and challenging routes (seeking challenge is a theme here) and taking photos of climbers ranging from amateur friends to Olympians. If you're interested you can check out photos from my adventures at https://www.zacmoss.co.uk/
-
-I also like to solve Rubik's cubes. Over lockdown I had a goal of getting a solve in under one minute, my fastest time is 1 minute and 83 hundreths of a second. Always looking to improve!
-
 ## Work Experience
 
 #### Elements SFX (Nov ‘20 to Oct ‘21)  
@@ -66,3 +60,9 @@ Worked on everything from blockbuster film productions to commercials and music 
 
 #### University for the Creative Arts (September ‘08 - June ‘11)
 Digital Film and Screen Arts - 2-2
+
+## Other things I enjoy outside coding:
+
+I really enjoy rock climbing and photography. I took an eight month trip through Europe and Turkey (lots of baklava), climbing some incredible and challenging routes (seeking challenge is a theme here) and taking photos of climbers ranging from amateur friends to Olympians. If you're interested you can check out photos from my adventures at https://www.zacmoss.co.uk/
+
+I also like to solve Rubik's cubes. Over lockdown I had a goal of getting a solve in under one minute, my fastest time is 1 minute and 83 hundreths of a second. Always looking to improve!
