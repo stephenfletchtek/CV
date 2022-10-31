@@ -1,98 +1,64 @@
-## Zac Moss
+## About Me
 
 I’m Zac Moss, I’m a full-stack software engineer and alumni of the Makers Academy July ‘22 cohort. I write in Javascript (including React and React Native) and Ruby.
 
-I learned to code after meeting software engineers working remote while on a rock climbing trip in Thailand. I loved a career that allowed you to travel and work! When I returned I entered lockdown and immediately started a course in Python on Codecademy. I was hooked.
+I learned to code after meeting software engineers working remote while on a rock climbing trip in Thailand. I loved the sound of a career that allowed so much flexibility! When I returned I entered lockdown and immediately started a course on Codecademy. I’ve been hooked ever since.
 
-Hungry for coding challenges after tearing through kata on Code Wars (I now have a 4 kta rating!), I gave myself one of my first projects: writing a script that would work with the website of one of the biggest rock climbing databases in the world. It didn't have a public API so my Python script scraped the site using Selenium to render dynamically loading pages and BeautifulSoup, a library for parsing a page's DOM, and converted the data into a leaderboard for who had completed the most climbs in an area. This proved popular with my climbing friends who are very competitive!
+## Why Hire Me?
 
-I continued to test myself during my time in the Makers Academy bootcamp. In my last group project at Makers we had two weeks to develop an app from scratch. We decided on a bill-splitting app for working out group meal costs in restaurants. For an added challenge, I suggested we make it a mobile app and write it in React Native - neither of which we had any experience with! This paid off when on completion we had an iOS app that we could deploy to mobile devices through Expo. I learned that there are few things as saying as seeing your app working in the palm of your hand.
+***I love to be challenged:*** After my first online course I wanted a project that would flex my new coding skills. I wrote a script that would interact with one of my favourite websites, a database of rock climbs from around the world. It didn't have a public API so I learned how to scrape the site using Selenium to render dynamically loading pages and BeautifulSoup, a library for parsing a page's DOM, and converted the data into a leaderboard for who had completed the most climbs in an area. This proved popular with my climbing friends who are very competitive!
 
+***Not afraid to fail:*** In my last group project at Makers we had two weeks to develop an app from scratch. We decided on a bill-splitting app for working out group meal costs in restaurants. For an added challenge, I suggested we make it a mobile app and write it in React Native - neither of which I had any experience with! This paid off when we finished with an iOS app that we could deploy through Expo.
 
-Other things I enjoy outside coding: I'm a keen climber (as mentioned) and photographer. I recently came back from an eight month climbing and photography trip through Europe and Turkey (lots of baklava), climbing some incredible and challenging routes (seeking challenge is a theme here) and taking photos of climbers ranging from amateur friends to Olympians. If you're interested you can check out photos from my adventures at https://www.zacmoss.co.uk/
+***Calm under pressure:*** I am used to keeping it together in high-stress situations. I have worked in special effects teams on film and tv productions working with fire and water effects where mistakes could have consequences of serious injury. As a climbing photographer I would be responsible for my own safety while abseiling, hanging in mid-air on a rope while taking photos of professional climbers and athletes - sometimes only getting one attempt to get the shot!
 
-I also like to solve Rubik's cubes. Over lockdown I had a goal of getting a solve in under one minute, my fastest time is 1 minute and 83 hundreths of a second. Always looking to improve!
-
+***I’m always working on something:*** If I’m not developing my own projects (just ask me what I’m working on at the moment), you can find me *solving kata on Code Wars where I have a 3 kyu rating)[https://www.codewars.com/users/ZacMoss].
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Chitter API** | Backend for a full-stack web application, a social media platform that allows users to create accounts, post messages, like comments, and tag other users. Users are emailed when tagged. | Javascript, Node.js, Express, Twilio SendGrid, MongoDB, Jest |
-| **Divvy**            | Final project at Makers, a mobile app that helps you work out how to split restaurant bills between friends | React, Javascript, Node, Expo, Realm, Taggun |
-| **Gilded Rose** | Script that manages inventory for a fictional shop | Javascript, Jest              |
+| **Chitter** | A full-stack MERN social media web application that allows users to create accounts, post messages, like comments, and tag other users. | Javascript, React, Node.js, Express, Twilio SendGrid, MongoDB, Jest, Supertest, Bcrypt, HTML, CSS |
+| **Divvy**            | A mobile app for calculating how to split group meal costs in restaurants. Users can take a photo of a receipt and have it itemised on the app. It supports additional charges including tips, service charges, taxes, and can deduct discounts. | React Native, Javascript, Node.js, Expo, Realm, Taggun, Jest, CSS |
+| **AceBook** | A full-stack MCV social media web application. Users can make a profile and upload a profile photo, add friends, see and comment on their friends posts, and like comments and posts. | Javascript, Node.js, MongoDB, Handlebars, Jest, Cypress, HTML, CSS |
+| **Makers BnB** | A full-stack MCV rental marketplace. Users can post properties or spaces they own or manage and other users can request to book them. | Ruby, Sinatra, Active Record, PostGres, RSpec, HTML, CSS | 
+| **Gilded Rose** | Inventory manager for a fictional shop. Items degrade in quality with each passing day depending on the special qualities of the item. | Javascript, Jest |
+| **Bank Tech Test** | Mock tech test, a transaction handler for a bank account. It validates and records withdrawals and deposits and can return a bank statement based on the account’s transaction history. | Javascript, Jest |
+| **Busiest Climber** | Web scraper and leaderboard creator. Scrapes the second largest database of rock climbs in the world and builds a top ten leaderboard for an area based on who had completed the most climbs. My earliest project! | Python, Selenium, BeautifulSoup |
+
+## Other things I enjoy outside coding:
+
+I really enjoy rock climbing and photography. I took an eight month trip through Europe and Turkey (lots of baklava), climbing some incredible and challenging routes (seeking challenge is a theme here) and taking photos of climbers ranging from amateur friends to Olympians. If you're interested you can check out photos from my adventures at https://www.zacmoss.co.uk/
+
+I also like to solve Rubik's cubes. Over lockdown I had a goal of getting a solve in under one minute, my fastest time is 1 minute and 83 hundreths of a second. Always looking to improve!
 
 ## Work Experience
 
-**Elements SFX** (Nov 2020 to Oct 2021)  
+**Elements SFX** (Nov ‘20 to Oct ‘21)  
 SFX Trainee
 
-A continuous stint with a special effects company based in SW London. As well as learning how to use many wood and metalwork tools and skills, I had the chance to work on a lot of different effects including fire and pyrotechnics, smoke and haze, and water and rain. Some effects I was involved with included:
+I worked as part of a special effects company based in SW London. As well as learning how to use many wood and metalwork tools and skills, I had the chance to work on a lot of different effects including fire and pyrotechnics, smoke and haze, and water and rain.
 
--emulating a river overflowing in a storm by dropping two tons of water on a caravan down a slide made of plywood and scaffolding,
--setting things on fire like a whole kitchen, a boxing ring, and a moped,
--covering a popular Hackney street in snow,
--smoking out a forest near Guildford before having to stop due to torrential hailstorm in April (that bit wasn't us),
--running a bath (actually an effect).
+Some effects I was involved with included:
 
-I am also a coded welder and have a current forklift ticket.
+-setting various things on fire like a kitchen, a boxing ring, and a moped,
+-dropping two tons of water on a caravan,
+-covering a street in Hackney in fake snow,
+-running a bath (genuinely an effect).
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Various Film and Television Productions** (Oct ‘14 - December ‘19)
+Assistant Director and Runner
 
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Worked on everything from blockbuster film productions to commercials and music videos. As an assistant director I would work as time keeper on set and keep the day moving along. I was also responsible for managing groups of background artists in groups of anywhere between ten to several hundred people.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July ‘22 - October ‘22)
+Joined the Makers Academy bootcamp with hopes and dreams of emerging as a professional software engineer.
+Learned to work in a team environment using Agile methodologies to build exciting projects
+Met a bunch of wonderful people and was continually excited by code
+Ruby & Javascript
+Taught TDD processes with testing frameworks including RSpec, Jest, and Cypress
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+#### University for the Creative Arts (September ‘08 - June ‘11
+Digital Film and Screen Arts - 2-2
