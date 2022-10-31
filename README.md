@@ -1,4 +1,4 @@
-[Find my PDF CV here](https://github.com/ZacMossHK/CV/blob/24c933a71fea02ea0b11a4f1255cd8926eb137c9/README.md)
+[Find my PDF CV here](https://github.com/ZacMossHK/CV/blob/9a2febb9890979c5e34cf1d8979e6f78df6fb975/Zac%20Moss%20CV.pdf)
 
 ## About Me
 
