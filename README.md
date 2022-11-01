@@ -32,7 +32,14 @@ I learned to code after meeting software engineers working remote while on a roc
 | [**Bank Tech Test**](https://github.com/ZacMossHK/BankTechTest)| Mock tech test, a transaction handler for a bank account. It validates and records withdrawals and deposits and can return a bank statement based on the account’s transaction history. | Javascript, Jest |
 | [**Busiest Climber**](https://github.com/ZacMossHK/Busiest-Climbers-UKC)| Web scraper and leaderboard creator. Scrapes the second largest database of rock climbs in the world and builds a top ten leaderboard for an area based on who had completed the most climbs. My earliest project! | Python, Selenium, BeautifulSoup |
 
-## Work Experience
+## Experience
+
+#### Makers Academy (July ‘22 - October ‘22)
+- Joined the Makers Academy bootcamp with hopes and dreams of emerging as a professional software engineer.
+- Learned to work in a team environment using Agile methodologies to build exciting projects
+- Met a bunch of wonderful people and was continually excited by code
+- Ruby & Javascript
+- Taught TDD processes with testing frameworks including RSpec, Jest, and Cypress
 
 #### Elements SFX (Nov ‘20 to Oct ‘21)  
 SFX Trainee
@@ -52,13 +59,6 @@ Assistant Director and Runner
 Worked on everything from blockbuster film productions to commercials and music videos. As an assistant director I would work as time keeper on set and keep the day moving along. I was also responsible for managing groups of background artists in groups of anywhere between ten to several hundred people.
 
 ## Education
-
-#### Makers Academy (July ‘22 - October ‘22)
-- Joined the Makers Academy bootcamp with hopes and dreams of emerging as a professional software engineer.
-- Learned to work in a team environment using Agile methodologies to build exciting projects
-- Met a bunch of wonderful people and was continually excited by code
-- Ruby & Javascript
-- Taught TDD processes with testing frameworks including RSpec, Jest, and Cypress
 
 #### University for the Creative Arts (September ‘08 - June ‘11)
 Digital Film and Screen Arts - 2-2
