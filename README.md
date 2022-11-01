@@ -41,8 +41,7 @@ I learned to code after meeting software engineers working remote while on a roc
 - Ruby & Javascript
 - Taught TDD processes with testing frameworks including RSpec, Jest, and Cypress
 
-#### Elements SFX (Nov ‘20 to Oct ‘21)  
-SFX Trainee
+#### Elements SFX (Nov ‘20 to Oct ‘21) - SFX Trainee
 
 I worked as part of a special effects company based in SW London. As well as learning how to use many wood and metalwork tools and skills, I had the chance to work on a lot of different effects including fire and pyrotechnics, smoke and haze, and water and rain.
 
@@ -53,8 +52,7 @@ Some effects I was involved with included:
 - covering a street in Hackney in fake snow,
 - running a bath (genuinely an effect).
 
-#### Various Film and Television Productions (Oct ‘14 - December ‘19)
-Assistant Director and Runner
+#### Various Film and Television Productions (Oct ‘14 - December ‘19) - Assistant Director and Runner
 
 Worked on everything from blockbuster film productions to commercials and music videos. As an assistant director I would work as time keeper on set and keep the day moving along. I was also responsible for managing groups of background artists in groups of anywhere between ten to several hundred people.
 
