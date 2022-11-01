@@ -24,7 +24,7 @@ I learned to code after meeting software engineers working remote while on a roc
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Chitter**](https://github.com/ZacMossHK/chitter-react-api) | The back end to a full-stack MERN social media web application that allows users to create accounts, post messages, like comments, and tag other users. | Javascript, React, Node.js, Express, Twilio SendGrid, MongoDB, Jest, Supertest, Bcrypt, HTML, CSS |
+| [**Chitter**](https://github.com/ZacMossHK/chitter-react-api) | The back end to a full-stack MERN social media web application that allows users to create accounts, post messages, like comments, and tag other users. | Javascript, Node.js, Express, Twilio SendGrid, MongoDB, Jest, Supertest, Bcrypt |
 | [**Divvy**](https://github.com/ZacMossHK/divvy-app)            | A mobile app for calculating how to split group meal costs in restaurants. Users can take a photo of a receipt and have it itemised on the app. It supports additional charges including tips, service charges, taxes, and can deduct discounts. | React Native, Javascript, Node.js, Expo, Realm, Taggun, Jest, CSS |
 | [**Acebook**](https://github.com/ZacMossHK/acebook)| A full-stack MCV social media web application. Users can make a profile and upload a profile photo, add friends, see and comment on their friends posts, and like comments and posts. | Javascript, Node.js, MongoDB, Handlebars, Jest, Cypress, HTML, CSS |
 | **Makers BnB** | A full-stack MCV rental marketplace. Users can post properties or spaces they own or manage and other users can request to book them. | Ruby, Sinatra, Active Record, PostGres, RSpec, HTML, CSS | 
