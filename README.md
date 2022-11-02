@@ -2,9 +2,9 @@
 
 [Projects](#projects) | [Experience](#software-experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests)
 
-💻 After more than 20 years in x-ray hardware development - where I was troubleshooter-in-chief for a large high-tech engineering firm - I decided to change career and follow my love of problem-solving into the world of software engineering . Over the years I've built many transferable skills: in product design and development, customer service, faultfinding and diagnosis, team-working, coaching, management and leadership.
+💻 After more than 20 years in x-ray hardware development - where I was troubleshooter-in-chief for a large high-tech engineering firm - I decided to change career and follow my love of problem-solving into the world of software engineering . Over the years I've built many transferable skills: in product design and development, customer service, fault finding and diagnosis, team-working, coaching, management and leadership.
 
-🌱 Nonetheless I clearly entered the software engineering space with knowledge and skill gaps - so I have been working assiduously to address them: I’ve learned a wide range of languages and frameworks; I’ve worked solo, in pairs, and as part of an agile team; I’ve practiced working with APIs and OAuth 2.0 for one of my personal [home automation projects](https://github.com/stephenfletchtek/heattolight); and I’ve grown my understanding of common web security risks (e.g. OWASP Top 10).
+🌱 Nonetheless I clearly entered the software engineering space with knowledge and skill gaps - so I have been working assiduously to address them: I’ve learned a wide range of languages and frameworks; I’ve worked solo, in pairs, and as part of an agile team; I’ve practised working with APIs and OAuth 2.0 for one of my personal [home automation projects](https://github.com/stephenfletchtek/heattolight); and I’ve grown my understanding of common web security risks (e.g. OWASP Top 10).
 
 ## Projects
 
@@ -24,7 +24,7 @@ Name | Description | Tech/tools
 
 * Became proficient in two new programming languages (Ruby and Javascript)
 * Built several web apps collaborating within a small team using paired programming
-* Practiced agile techniques and Test Driven Development
+* Practised agile techniques and Test Driven Development
 * Applied previously understood knowledge with Object Oriented Code
 
 #### [Team Treehouse](https://teamtreehouse.com/) and [Codecademy](https://www.codecademy.com/) (2021 to 2022)
@@ -65,7 +65,7 @@ _Senior Technical Development roles_
 
 At Makers I had to build applications both in small teams and using paired programming. I took the time to get to know my team and pairing partner and to understand their knowledge, skills and preferred ways of working and communicating. This meant I could make sure we were working to our strengths, meeting each other's needs, and organising the work optimally. As a result of this collaboration, my work was much higher quality than any of us could have produced individually. The intensity of the collaboration is evidenced in my GitHub repos.
 
-When leading the team developing a novel x-ray source at Nikon Metrology I needed to solve problems that crossed over different disciplines. I formed a good working relationship with electronics designers, mechanical designers, and our engineering workshop enabling me to openly discuss ideas and challenge team member's assumptions. The impact of this collaboration was buy in from all stakeholders and a fast turnover of prototypes.
+When leading the team developing a novel x-ray source at Nikon Metrology I needed to solve problems that crossed over different disciplines. I formed a good working relationship with electronics designers, mechanical designers, and our engineering workshop enabling me to openly discuss ideas and challenge team member's assumptions. The impact of this collaboration was buy-in from all stakeholders and a fast turnover of prototypes.
 
 #### Testing
 
@@ -76,7 +76,7 @@ At Nikon Metrology, one of our products was consistently failing to meet custome
 #### Troubleshooting
 I have a strong capability to break down seemingly complex system issues into manageable steps to understand and analyse the underlying problems.
 
-During my final project at Makers, the game my team were developing ran too slowly on mobile devices. I needed to work out why it ran so slow even though it was just fine on a laptop. One by one I disabled different components of the game (change debugging) - e.g. obstacles, scrolling 3D-effect background, and gravity to uncover which of these had the greatest impact on the slow running of the game. I discovered the scrolling background had by far the most impact on slow running and discussed this with the team member who had implemented the background. They solved the slow running issue by presenting a simplified background for mobile devices.
+During my final project at Makers, the game my team was developing ran too slowly on mobile devices. I needed to work out why it ran so slow even though it was just fine on a laptop. One by one I disabled different components of the game (change debugging) - e.g. obstacles, scrolling 3D-effect background, and gravity to uncover which of these had the greatest impact on the slow running of the game. I discovered the scrolling background had by far the most impact on slow running and discussed this with the team member who had implemented the background. They solved the slow running issue by presenting a simplified background for mobile devices.
 
 In hardware, I diagnosed a subtle output stability issue with a high voltage x-ray power supply:
 * X-ray voltage would violently oscillate under some conditions
