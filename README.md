@@ -55,15 +55,17 @@ _Senior Technical Development roles_
 * Extensive customer support experience
     * In person and remote
     * 1st, 2nd, and 3rd line technical support for products
-* VBA scripts to customise control of x-ray hardware
-* Created Microsoft Excel Macros to meet business needs
 * 2D Engineering drawings using Draftsight
+* Created Microsoft Excel Macros to meet business needs
+* VBA scripts to customise control of x-ray hardware
 
 ## Skills
 
 #### Collaboration
 
-At Makers Bootcamp I had to build applications both in small teams and using paired programming. I took the time to get to know my team and pairing partner and to understand their knowledge, skills and preferred ways of working and communicating. This meant I could make sure we were working to our strengths, meeting each other's needs, and organising the work optimally. As a result of this collaboration, my work was much higher quality than any of us could have produced individually. The intensity of the collaboration is evidenced in my GitHub repos.
+At Makers I had to build applications both in small teams and using paired programming. I took the time to get to know my team and pairing partner and to understand their knowledge, skills and preferred ways of working and communicating. This meant I could make sure we were working to our strengths, meeting each other's needs, and organising the work optimally. As a result of this collaboration, my work was much higher quality than any of us could have produced individually. The intensity of the collaboration is evidenced in my GitHub repos.
+
+When leading the team developing a novel x-ray source at Nikon Metrology I needed to solve problems that crossed over different disciplines. I formed a good working relationship with electronics designers, mechanical designers, and our engineering workshop enabling me to openly discuss ideas and challenge team member's assumptions. The impact of this collaboration was buy in from all stakeholders and a fast turnover of prototypes.
 
 #### Testing
 
