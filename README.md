@@ -69,9 +69,9 @@ When leading the team developing a novel x-ray source at Nikon Metrology I neede
 
 #### Testing
 
-At Nikon Metrology, one of our products was consistently failing to meet customer expectations for reliability or performance - and was damaging our corporate reputation. I was tasked to rectify the situation by bringing about design improvements. I designed a systematic programme of tests - first to identify and understand the problems, and second, to develop and iterate necessary design improvements. Using this prototype, test, improve cycle, I worked with colleagues to release an improved product that passed tests, met customer expectations, and began to rebuild our reputation for reliable, quality products.
+I wrote a tech-test style command-line app that modelled a bank account, with deposits, withdrawals, and bank statements, following a Test Driven Development approach. I designed tests based on requirements, then created the minimum code needed to pass each test - resulting in an efficiently developed, readable, and robust application that behaved as expected, including edge cases.
 
-At Makers, I was asked to write a command-line app that modelled a bank account, with deposits, withdrawals, and bank statements, by taking a Test Driven Development approach. I designed tests based on requirements, then created the minimum code needed to pass each test - resulting in an efficiently developed and robust application that behaved as expected, including edge cases.
+At Nikon Metrology, one of our products was consistently failing to meet customer expectations for reliability or performance - and was damaging our corporate reputation. I was tasked to rectify the situation by bringing about design improvements. I designed a systematic programme of tests - first to identify and understand the problems, and second, to develop and iterate necessary design improvements. Using this prototype, test, improve cycle, I worked with colleagues to release an improved product that passed tests, met customer expectations, and began to rebuild our reputation for reliable, quality products.
 
 #### Troubleshooting
 I have a strong capability to break down seemingly complex system issues into manageable steps to understand and analyse the underlying problems.
