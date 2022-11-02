@@ -76,7 +76,7 @@ At Nikon Metrology, one of our products was consistently failing to meet custome
 #### Troubleshooting
 I have a strong capability to break down seemingly complex system issues into manageable steps to understand and analyse the underlying problems.
 
-At Makers I used a range of debugging methods such as **change debugging** and **discovery debugging** using tools such as `binding.irb` and `p` in Ruby and node and `console.log` in Javascript.
+During my final project at Makers, the game my team were developing ran too slowly on mobile devices. I needed to work out why it ran so slow even though it was just fine on a laptop. One by one I disabled different components of the game (change debugging) - e.g. obstacles, scrolling 3D-effect background, and gravity to uncover which of these had the greatest impact on the slow running of the game. I discovered the scrolling background had by far the most impact on slow running and discussed this with the team member who had implemented the background. They solved the slow running issue by presenting a simplified background for mobile devices.
 
 In hardware, I diagnosed a subtle output stability issue with a high voltage x-ray power supply:
 * X-ray voltage would violently oscillate under some conditions
