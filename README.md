@@ -35,7 +35,7 @@ Name | Description | Tech/tools
 
 ## Hardware Experience
 
-#### Nikon Metrology (2017 to 2021)  
+#### [Nikon Metrology](https://industry.nikon.com/en-gb/products/x-ray-ct/) (2017 to 2021)  
 _System Testing and Integration Lead_ 
 
 * Technical lead responsible for the development of an ambitious and complex high Voltage x-ray source
@@ -52,7 +52,9 @@ _Senior Technical Development roles_
   - Test design, build, test and iterate
   - Install and configuration on-site
   - Debugging of new and legacy components
-* Extensive customer support experience - in person as well as remote 1st, 2nd and 3rd line technical support for products
+* Extensive customer support experience
+    * In person and remote
+    * 1st, 2nd, and 3rd line technical support for products
 * VBA scripts to customise control of x-ray hardware
 * Created Microsoft Excel Macros to meet business needs
 * 2D Engineering drawings using Draftsight
