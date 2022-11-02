@@ -1,13 +1,10 @@
 ## Stephen Fletcher
-#### Junior Developer
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Experience](#software-experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests)
 
-I am an independent problem solver who learns quickly by getting involved and doing. The trickier the problem, the more motivated I am to get it solved! 
+💻 After more than 20 years in x-ray hardware development - where I was troubleshooter-in-chief for a large high-tech engineering firm - I decided to change career and follow my love of problem-solving into the world of software engineering . Over the years I've built many transferable skills: in product design and development, customer service, faultfinding and diagnosis, team-working, coaching, management and leadership.
 
-I recently completed [Makers Academy](https://makers.tech/) and have more than 20 years experience in hardware development and design. 
-
-I changed to software so I can work with more flexibility than hardware allows. My time working in x-ray hardware covered design, development, test, manufacturing, and customer support, leaving me with many skills highly relevant to software development. 
+🌱 Nonetheless I clearly entered the software engineering space with knowledge and skill gaps - so I have been working assiduously to address them: I’ve learned a wide range of languages and frameworks; I’ve worked solo, in pairs, and as part of an agile team; I’ve practiced working with APIs and OAuth 2.0 for one of my personal [home automation projects](https://github.com/stephenfletchtek/heattolight); and I’ve grown my understanding of common web security risks (e.g. OWASP Top 10).
 
 ## Projects
 
@@ -21,15 +18,22 @@ Name | Description | Tech/tools
 [JS Bank Tech Test](https://github.com/stephenfletchtek/js-bank-tech-test) | Tech test as above in Javascript | Javascript, Jest
 
 
-## Experience
+## Software Experience
 
-#### Makers Academy (June 2022 to October 2022)
+#### [Makers Academy](https://makers.tech/) (June 2022 to October 2022)
 
-Makers Academy Bootcamp was a 12 week intensive course teaching core programming skills such as paired programming, test driven development and object oriented programming. The course required me to become proficient in Ruby and Javascript whilst creating web applications in small teams using agile development techniques. 
+* Became proficient in two new programming languages (Ruby and Javascript)
+* Built several web apps collaborating within a small team using paired programming
+* Practiced agile techniques and Test Driven Development
+* Applied previously understood knowledge with Object Oriented Code
 
-#### Team Treehouse and Codecademy (2021 - 2022)
+#### [Team Treehouse](https://teamtreehouse.com/) and [Codecademy](https://www.codecademy.com/) (2021 to 2022)
 
-Team Treehouse and Codecademy are online bootcamps where I learned Python, Django, and CSS whilst creating some solo projects. I also built some applications using OAuth 2.0 and deployed one of my projects on [python anywhere](https://www.pythonanywhere.com/). The projects are in my github repositories.
+* Learned Python, Django, and CSS on solo projects
+* Built some applications using OAuth 2.0
+* Deployed one of my projects on [python anywhere](https://www.pythonanywhere.com/)
+
+## Hardware Experience
 
 #### Nikon Metrology (2017 to 2021)  
 _System Testing and Integration Lead_ 
